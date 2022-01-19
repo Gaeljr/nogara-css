@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+
+
+h1 {
+    background-color: aqua;
+}
+
+p {
+    background-color: wheat;
+    color: tomato;
+}
+
+#verde {
+    background-color: darkgreen;
+}
+
+
+#rosa {
+    background-color: plum;
+}
+
+.amarillo {
+    background-color: yellow;
+}
+
+
+#azul {
+background-color: blue;
+}

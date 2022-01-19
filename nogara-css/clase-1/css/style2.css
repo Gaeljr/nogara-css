@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+
+
+@font-face {
+    font-family: cursive;
+    src: url(fuentes/DancingScript-VariableFont_wght.ttf),
+    url(fuentes/static/DancingScript-Medium.ttf),
+    url();
+}
+
+body {
+    background-color: cadetblue;
+    color: black;
+}
+
+
+h1 {
+    font-size: 60px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+h2 {
+    font-family: perro;
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps;
+}
+
+h3 {
+    text-align: center;
+    
+}
+
+
+p {
+    color: white;
+    text-align: justify;
+    text-transform: lowercase;
+    text-indent: 50px;
+    text-shadow: 2px 2px greenyellow;
+    /* text-decoration: line-through; */
+
+    text-decoration-line: line-through;
+    /* text-decoration-thickness: 2px; */
+    text-decoration: underline 4px wavy green;
+    /* 
+    Tipos de linea:
+    text-decoration-style: wavy;
+    text-decoration-style: dotted;
+    text-decoration-style: dashed; 
+    text-decoration-style: solid; */
+}
