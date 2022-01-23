@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 70vh;
+    background-size: cover;
+    background-image: url(https://fondosmil.com/fondo/24254.jpg);
+    border-image: linear-gradient();
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+
+
+.wave {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
