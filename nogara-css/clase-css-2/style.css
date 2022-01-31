@@ -69,3 +69,19 @@ h2 span {
     height: 300px;
     background-color: red;
 }
+
+.fondo-img{
+    color: #f9fd18;
+    width: 100%;
+    margin: auto;
+    height: 95vh;
+    background-image: url(../fondo-img/mat-hayward-0tcGzm7Honw-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.bienvenida{
+    position: relative;
+    top: 100px;
+}
